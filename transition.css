@@ -1,0 +1,15 @@
+div{
+    background-image: linear-gradient(red,gold,yellowgreen);
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    transition-property: transform;
+    transition-duration: 900ms;
+    transition-timing-function: linear;
+}
+div:hover{
+    transform: rotateX(100deg) rotateY(180deg) rotateZ(50deg);
+}
+div:active{
+    transform: rotateX(50deg) rotateY(240deg) rotateZ(130deg);
+}
