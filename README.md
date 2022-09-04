@@ -1,2 +1,2 @@
 # Circle-Transition
-i learnt and practiced circle transition usind css
+i learnt and made some exercise of circle transition using css
